@@ -8,11 +8,11 @@
     
   },
   {
-    "isim":"Çikolata",
-    "fiyat":"10.0",
-    "gluten":"glutenli",
-    "Icerik":"Kakao kitlesi, şeker, yağı azaltılmış kakao tozu, süt yağı,kakao yağı, emülgatör (ayçiçek lesitini), aroma verici (vanilin) Kakao kuru maddesi en az % 60 [Fındık, antep fıstığı, badem ve buğday (gluten) içerebilir",
-    "urunGorsel":"https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/patates.png"
+    "isim":"Massara Meyveli Kavrulmuş Leblebi",
+    "fiyat":"25,20 TL",
+    "gluten":"Glutensiz",
+    "Icerik":"Meyveli leblebi. 100 GR",
+    "urunGorsel":"https://raw.githubusercontent.com/GulayAdgzl/ColyakAPI/master/leblebi.png"
     
   }
 
