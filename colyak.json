@@ -14,6 +14,14 @@
     "Icerik":"Meyveli leblebi. 100 GR",
     "urunGorsel":"https://raw.githubusercontent.com/GulayAdgzl/ColyakAPI/master/leblebi.png"
     
+  },
+  {
+    "isim":"Massara Pineapple Jelly Candy Ananaslı Jelibon",
+    "fiyat":"25,20 TL",
+    "gluten":"Glutensiz",
+    "Icerik":"Ananslı Jelibon. 100 GR",
+    "urunGorsel":"https://raw.githubusercontent.com/GulayAdgzl/ColyakAPI/master/jelibon.png"
+    
   }
 
   
