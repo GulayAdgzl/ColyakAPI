@@ -22,6 +22,14 @@
     "Icerik":"Ananslı Jelibon. 100 GR",
     "urunGorsel":"https://raw.githubusercontent.com/GulayAdgzl/ColyakAPI/master/jelibon.png"
     
+  },
+   {
+    "isim":"Raffole Glutensiz Sürülebilir Karamel 250 GR",
+    "fiyat":"65,47 TL",
+    "gluten":"Glutensiz",
+    "Icerik":"Doğal",
+    "urunGorsel":"https://raw.githubusercontent.com/GulayAdgzl/ColyakAPI/master/cikolata.png"
+    
   }
 
   
