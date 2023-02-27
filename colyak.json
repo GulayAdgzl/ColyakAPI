@@ -38,6 +38,14 @@
     "Icerik":"Organik mısır unu (%78,5), organik elma suyu konsantresi (%20,5), organik hindistan cevizi yağı (%1,2).",
     "urunGorsel":"https://raw.githubusercontent.com/GulayAdgzl/ColyakAPI/master/mısır.png"
     
+  },
+  {
+    "isim":"NESTLÉ 1927 Bitter Çikolata 60% Kakao 24(6x80g)",
+    "fiyat":"152,91 TL",
+    "gluten":"Glutenli",
+    "Icerik":"Kakao kitlesi, şeker, yağı azaltılmış kakao tozu, süt yağı, kakao yağı, emülgatör (ayçiçek lesitini), aroma verici (vanilin). Kakao kuru maddesi en az % 60[Fındık, antep fıstığı, badem ve buğday (gluten) içerebilir]",
+    "urunGorsel":"https://raw.githubusercontent.com/GulayAdgzl/ColyakAPI/master/g1.png"
+    
   }
 
   
