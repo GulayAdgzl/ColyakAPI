@@ -30,6 +30,14 @@
     "Icerik":"Doğal",
     "urunGorsel":"https://raw.githubusercontent.com/GulayAdgzl/ColyakAPI/master/cikolata.png"
     
+  },
+  {
+    "isim":"Dr. Gluten Glutensiz Organik Mısır Gevreği 200gr",
+    "fiyat":"35,96 TL",
+    "gluten":"Glutensiz",
+    "Icerik":"Organik mısır unu (%78,5), organik elma suyu konsantresi (%20,5), organik hindistan cevizi yağı (%1,2).",
+    "urunGorsel":"https://raw.githubusercontent.com/GulayAdgzl/ColyakAPI/master/mısır.png"
+    
   }
 
   
